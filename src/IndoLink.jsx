@@ -3,7 +3,7 @@ import { Github, Linkedin, Instagram, Globe } from 'lucide-react';
 
 const IndoLink = () => {
   const links = [
-    { name: "Portfolio Website", url: "/", icon: <Globe size={18}/>, color: "bg-blue-600" },
+    { name: "Portfolio Website", url: "https://adityar2811.github.io/my-portfolio/", icon: <Globe size={18}/>, color: "bg-blue-600" },
     { name: "GitHub Profile", url: "https://github.com/adityar2811", icon: <Github size={18}/>, color: "bg-slate-800" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/aditya-ramadhana-4776b6391/", icon: <Linkedin size={18}/>, color: "bg-blue-700" },
     { name: "Instagram", url: "https://www.instagram.com/adityaramadhana67/", icon: <Instagram size={18}/>, color: "bg-pink-600" },

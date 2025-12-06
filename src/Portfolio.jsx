@@ -177,7 +177,7 @@ const About = () => {
               <div className="absolute inset-0 bg-gradient-to-tr from-primary-500 to-emerald-500 rounded-2xl rotate-6 opacity-50 blur-lg"></div>
               <div className="relative w-full h-full bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden">
                 <img 
-                  src="/profile.png"  
+                  src="./profile.png"  
                   alt="Profile Picture"
                   className="w-full h-full object-cover" 
                 />
